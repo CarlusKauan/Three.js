@@ -1,2 +1,2 @@
-# Creating a scene ( Criando uma cena )
+# my first three.js app ( Meu Primeiro app three.js )
 
